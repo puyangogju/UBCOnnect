@@ -1,10 +1,10 @@
 :root {
-    --green-dark: #1a4d2e;
-    --green-mid: #2d7a4f;
-    --green-light: #d9f99d;
-    --green-pale: #f0fce8;
-    --green-border: #c8e6b0;
-    --yellow-accent: #f0d637;
+    --green-dark: #0f3d91;
+    --green-mid: #2563eb;
+    --green-light: #fde68a;
+    --green-pale: #eff6ff;
+    --green-border: #bfdbfe;
+    --yellow-accent: #facc15;
     --purple: #7c3aed;
     --pink: #ec4899;
     --blue: #3b82f6;
@@ -22,7 +22,7 @@
 
   body {
     font-family: 'Instrument Sans', sans-serif;
-    background: #e8f5e9;
+    background: #dbeafe;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -320,7 +320,7 @@
   .post-img-placeholder.short { height: 95px; }
   .post-tag {
     position: absolute; bottom: 6px; left: 6px;
-    background: rgba(26,77,46,0.85);
+    background: rgba(15,61,145,0.85);
     color: var(--green-light);
     font-size: 8px; font-weight: 700;
     padding: 2px 8px; border-radius: 10px;
